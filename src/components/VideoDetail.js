@@ -3,7 +3,7 @@ import React from 'react';
 const VideoDetail = (props) => {
     if(!props.video) {
         return (
-            <div>Please search for a video dumb dumb</div>
+            <div>Please search for a video</div>
         );
     }
 
